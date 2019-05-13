@@ -1,0 +1,4 @@
+add_lunch_combo lineage_v580-eng
+add_lunch_combo lineage_v580-userdebug
+add_lunch_combo lineage_v580-user
+

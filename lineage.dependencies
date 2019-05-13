@@ -1,0 +1,8 @@
+ [
+  {
+    "remote": "github",
+    "repository": "tepame/android_vendor_zte_v580",
+    "target_path": "vendor/zte/v580",
+    "branch": "master"
+  }
+] 
