@@ -143,7 +143,7 @@ BACKLIGHT_PATH := /sys/class/leds/lcd-backlight/brightness
 WITH_SU := true
 
 # RIL
-BOARD_RIL_CLASS := ../../../device/zte/v6/ril
+BOARD_RIL_CLASS := ../../../device/zte/v580/ril
 
 BOARD_DISABLE_HW_ID_MATCH_CHECK := true
 
